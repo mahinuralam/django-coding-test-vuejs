@@ -1,2 +1,1 @@
 # django-coding-test-vuejs
- 
